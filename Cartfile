@@ -1,2 +1,1 @@
-github "envoy/Embassy" ~> 4.0
-
+github "thisisjak/Embassy" ~> 4.0
